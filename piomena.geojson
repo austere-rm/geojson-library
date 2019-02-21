@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff8000",
         "diff": 3,
         "distance": 0.57,
         "name": 1,
@@ -290,6 +291,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#0000ff",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "diff": 3,
@@ -1271,6 +1273,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff00ff",
         "diff": 3,
         "name": 3,
         "distance": 2.65,
@@ -2232,6 +2235,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#996633",
         "diff": 3,
         "distance": 2.65,
         "name": 4,
@@ -5058,6 +5062,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
         "diff": 3,
         "name": 5,
         "distance": 1.47,
@@ -5584,6 +5589,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffff00",
         "diff": 3,
         "name": 6,
         "distance": "6.60",
@@ -9315,6 +9321,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
         "diff": 3,
         "name": 7,
         "distance": 10.27,
@@ -14791,6 +14798,7 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#800080",
         "diff": 3,
         "name": 8,
         "distance": 18.44,
